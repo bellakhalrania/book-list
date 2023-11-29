@@ -11,8 +11,8 @@
           prix: "8.00$",
           langue: ‎ "Anglais",
           broché: ‎ "34 pages",
-          poids: ‎ "81,6 g"
-          dimensions : "‎ 21.59 x 0.2 x 21.59 cm"
+          poids: ‎ "81,6 g",
+          dimensions : "‎ 21.59 x 0.2 x 21.59 cm",
           organizer: "Lisa & Michael cohn",
         },
              {
@@ -26,8 +26,8 @@
           prix: "8.00$",
           langue: ‎ "Anglais",
           broché: ‎ "34 pages",
-          poids: ‎ "81,6 g"
-          dimensions : "‎ 21.59 x 0.2 x 21.59 cm"
+          poids: ‎ "81,6 g",
+          dimensions : "‎ 21.59 x 0.2 x 21.59 cm",
           organizer: "Lisa & Michael cohn",
         }
       ]

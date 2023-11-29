@@ -1,5 +1,5 @@
 {
-      books: [
+      "books": [
         {
           id: 1,
           title: "Bash and Lucy: Fetch Confidence",

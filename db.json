@@ -25,6 +25,19 @@
           "poids": "81,6 g",
           "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
           "organizer": "Cabe Lindsay"
+        },
+              {
+          "id": 3,
+          "title": "clever lands",
+          "image": "C:/Users/LENOVO/Documents/DSI22/DSI2 - Framework Côté Client/mini projet/nouveauproject/src/assets/be_well_bee.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
         }
       ]
 }

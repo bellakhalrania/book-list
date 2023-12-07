@@ -1,4 +1,12 @@
 {
+      "users":[
+            {
+            "name":"rania",
+            "password":"1234"
+            },
+            {"name":"amal",
+            "password":"0000"}
+      ],
       "books": [
         {
           "id": 1,
